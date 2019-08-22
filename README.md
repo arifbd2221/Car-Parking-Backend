@@ -13,17 +13,21 @@ This application is now live on pythonanywhere server
 Endpoint.... 
  
 http://arifdiu.pythonanywhere.com/slots/
+
 when an application invoke this url will consume all the slots information that are available
 in the system.
 
 
 http://arifdiu.pythonanywhere.com/slots/1(random id)
+
 This is parameterized url to see a particular slot.  
 
 http://arifdiu.pythonanywhere.com/booking/
+
 This url return all the booking records that are exists in the system
 
 http://arifdiu.pythonanywhere.com/booking/1233(random booking id)
+
 This is parameterized url to see a particular booking details. 
 
 
